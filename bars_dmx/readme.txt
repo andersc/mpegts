@@ -1,1 +1,0 @@
-This directory is populated with ES data from the demultiplexer example. The Demultiplexer must be run before the multiplexer example.
